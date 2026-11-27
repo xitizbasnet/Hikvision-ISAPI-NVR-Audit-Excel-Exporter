@@ -46,7 +46,7 @@ Each NVR generates a file named `NVR_login_<IP>_<Timestamp>.xlsx` on the user's 
    git clone https://github.com/xitizbasnet/Hikvision-ISAPI-NVR-Audit-Excel-Exporter.git
    ```
   ```powershell
-      cd hikvision-isapi-nvr-audit
+      cd Hikvision-ISAPI-NVR-Audit-Excel-Exporter
    ```
 
 
