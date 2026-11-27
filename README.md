@@ -1,6 +1,3 @@
-# Hikvision-ISAPI-NVR-Audit-Excel-Exporter
-Hikvision-ISAPI-NVR-Audit-Excel-Exporter
-
 # Hikvision / ISAPI NVR Audit & Health Exporter
 
 A standalone, multi-threaded PowerShell utility that concurrently queries one or more ISAPI-compatible Network Video Recorders (NVRs) and exports formatted Excel (`.xlsx`) audit reports directly to your Desktop.
